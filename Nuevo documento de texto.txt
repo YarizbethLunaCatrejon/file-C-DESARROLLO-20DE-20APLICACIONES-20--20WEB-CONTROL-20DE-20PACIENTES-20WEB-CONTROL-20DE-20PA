@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>CONTROL DE PACIENTES</title>
+        <center> <h1> <p>BIENVENIDOS A LA CLINICA </p> <p>"MEDICINA ESTETICA Y ANTIENVEJECIMIENTO"</p></h1></center>
+        <body bgcolor="pink" text="black">
+            <center><img src="WhatsApp Image 2021-06-26 at 3.47.34 AM"></center>
+        </body>
+<style>
+</style>
+    </head>
+    <body>
+        <div class="container">
+        <div class="login-container">
+        <div class="register">
+        <h2>REGISTRO DE PACIENTES:</h2>
+        <form action="">
+        <input type="text" placeholder="Nombre"
+        class="Nombre">
+        <input type="text" placeholder="Apellido"
+        class="Apellido">
+        <input type="text" placeholder="Edad"
+        class="Edad">
+        <input type="text" placeholder="Ocupacion"
+        class="Ocupacion">
+        <input type="text" placeholder="Telefono"
+        class="Telefono">
+        <input type="text" placeholder="Correo"
+        class="Correo">
+        <input type="text" placeholder="Direccion"
+        class="Direccion">
+        <input type="password" placeholder="Confirma contraseña" class="repass">
+        <input type="submit" class="submit"
+        value="REGISTRARSE">
+        </div>
+        </form>
+        </div>
+        <div class="login">
+            <h2>INICIAR SESION:</h2>
+            <div class="login-items">
+            <button class="fb"><i class="fab fa-facebook-f"></i>Acceder Con Facebook</button>
+            <button class="TW"><i class="fab fa-twitter"></i>Acceder Con Twitter</button>
+            <button class="correo"><i class="fas fa-envelope"></i>Acceder Con Correo</button>
+            </div>
+        </div>
+        </div>
+        </div>
+    </body>
+</html>
